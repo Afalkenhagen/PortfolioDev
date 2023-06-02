@@ -244,6 +244,14 @@ nav ul li {
   justify-content: center;
 }
 
+.proyect-card {
+  transition: all .5s ease-in-out;
+}
+.proyect-card:hover{
+    scale: 1.05;
+    box-shadow: 0 3px 10px var(--primary-shadow);
+}
+
 .proyects-titles {
   text-align: center;
   margin-bottom: 1rem;
@@ -270,7 +278,7 @@ nav ul li {
 .proyect-card {
   background-color: var(--bg-color);
   border-radius: 11px;
-  box-shadow: 0 3px 10px var(--primary-shadow);
+  box-shadow: 0 0px 5px var(--primary-shadow);
   padding: 20px;
   margin: 10px;
 }

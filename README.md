@@ -2,7 +2,9 @@
 
 My first simple portfolio, with interesting additions and modifications.
 
-![portfolio](https://github.com/Afalkenhagen/PortfolioDev/assets/89615151/fd898d33-d960-4168-a135-080694e00f9a)
+![portfolio](/Screenshot1.png)
+![portfolio](/Screenshot2.png)
+![portfolio](/Screenshot3.png)
 ## Badges
 ![Badge version](https://img.shields.io/badge/version-vanillajs%201.1-blue)
 ![Badge en Desarollo](https://img.shields.io/badge/status-in%20developing-yellowgreen)
